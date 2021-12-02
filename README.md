@@ -1,6 +1,6 @@
 # Apresentação: Lambda e VertX
 
-![lambda](http://img.viralpatel.net/2014/01/java-lambda-expression.png)    ![VertX](http://vertx.io/vertx2/logo-white-big.png)
+![lambda](https://miro.medium.com/max/695/1*-jv7nGQR-mDhrAU-K_lOWg.png)    ![VertX](https://upload.wikimedia.org/wikipedia/commons/3/3d/Vertx_logo.png)
 
 
 
